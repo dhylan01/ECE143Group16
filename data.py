@@ -18,6 +18,8 @@ def proccess_data():
     #handle data parsing
     df['dates_proccessed'] = pd.to_datetime(df['Incident Date'], format='%B %d, %Y')
     df.sort_values(by='dates_proccessed')
+    print(df.columns)
+    print(df['State'])
     #Optional: write back proccessed data
     # df.to_csv('ProcessedGunData.csv',index=False)
 
