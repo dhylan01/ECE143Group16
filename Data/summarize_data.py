@@ -13,3 +13,6 @@ def merge_gun_data():
     df = pd.concat(map(pd.read_csv,get_sorted_files_from_data_dir()),ignore_index=True)
     df.to_csv('MergedGunData.csv',index=False)
 
+
+if __name__ == '__main__':
+    merge_gun_data()
