@@ -10,5 +10,5 @@
 
 **analysis_final.ipynb** - The Python notebook contains all of our data processing and visualizations, representing the final version that consolidates all the work we have done. It includes both the code and the results that were showcased during the presentation.
 
-
+**analysis_NAME.ipynb** - The Python notebook contains individual work.
 
