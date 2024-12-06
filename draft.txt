@@ -1,0 +1,16 @@
+(Dashboard slide)
+We created an interactive dashboard to visualize gun violence incidents across different states. 
+Users can select a state from a dropdown menu, and the dashboard will dynamically generate three 
+bar plots: one showing the number of incidents by year, another by day of the week, and the third 
+by month. These visualizations help identify temporal patterns in gun violence for the selected state, 
+making it easier to understand trends and potential correlations with time factors such as seasons or 
+weekdays.
+
+(Potential Usage slide)
+Research into monthly and daily patterns of gun violence shows that incidents tend to spike during 
+summer months and weekends. This aligns with psychological theories, such as the "heat hypothesis," 
+which links high temperatures to increased aggression, and the impact of social gatherings and substance 
+use on impulsive behavior. Weekends also see more violence due to stress release and risky behavior. 
+Understanding these trends helps design interventions like conflict resolution programs in the summer and 
+stricter alcohol regulations on weekends to reduce violence.
+
