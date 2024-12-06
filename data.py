@@ -22,5 +22,5 @@ def proccess_data():
     print(df['State'])
     #Optional: write back proccessed data
     # df.to_csv('ProcessedGunData.csv',index=False)
-
-proccess_data()
+if __name__ == '__main__':
+    proccess_data()
