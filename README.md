@@ -13,5 +13,5 @@
 
 **Analysis_Merged.py** - The .py version of the same Jupyter notebook. On running this, every plot/interactive map will open as a pop-up. [NOT RECOMMENDED]
 
-**analysis_<NAME>.ipynb** - Individual analysis work that was merged to create the final version.
+**analysis_NAME.ipynb** - Individual analysis work that was merged to create the final version.
 
